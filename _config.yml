@@ -1,14 +1,8 @@
 layout_spectrum: 0.9084414
-typography_spectrum: 0.09076262
 color:
-  saturation: 0.9049408
+  saturation: 0.5902256
+  lightness: 0.7126746
   brandStrength: 0.1669211
-  lightness: 0.5161117
-  rhythmicContrast: 0.7180451
-  brandColors:
-    - '#71A7FE'
-    - '#399AE7'
-    - '#3B407C'
-    - '#547AB1'
-    - '#CEAFC0'
+  rhythmicContrast: 0.2153598
+typography_spectrum: 0.09076262
 name: The Hanks-Frazer Page
